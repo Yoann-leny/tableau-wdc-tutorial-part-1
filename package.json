@@ -1,0 +1,13 @@
+{
+  "name": "wdc_1_part",
+  "version": "1",
+  "description": "wdcc web connector",
+  "main": "index.js",
+  "repository": "https://github.com/Yoann-leny/tableau-wdc-tutorial-part-1",
+  "author": "Yoann Leny",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  }
+}
